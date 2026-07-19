@@ -50,7 +50,8 @@ When shipping cost exceeds 20% of a product's base price, the probability of tha
 
 ### **1️⃣ Sales Performance**
 High-level sales and profit KPIs, monthly trend, category and regional breakdown.  
-![Sales Performance](assets/Sales Performance.png)
+![Sales Performance]/assets/Customer_Insights.png
+
 
 ### **2️⃣ Profitability & Risk**
 The shipping-to-price ratio discovery, loss analysis by category.  
