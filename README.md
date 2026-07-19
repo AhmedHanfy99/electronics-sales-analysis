@@ -48,18 +48,18 @@ When shipping cost exceeds 20% of a product's base price, the probability of tha
 
 ## 📊 Dashboard Pages
 
-### **1️⃣ Sales Performance**
+### 1️⃣ Sales Performance
 High-level sales and profit KPIs, monthly trend, category and regional breakdown.  
-![Sales Performance]/assets/Customer_Insights.png
+![Sales Performance](assets/Sales_Performance.png)
 
-
-### **2️⃣ Profitability & Risk**
+### 2️⃣ Profitability & Risk
 The shipping-to-price ratio discovery, loss analysis by category.  
-![Profitability & Risk](assets/Profitability & Risk.png)
+![Profitability & Risk](assets/Profitability_and_Risk.png)
 
-### **3️⃣ Customer Insights**
+### 3️⃣ Customer Insights
 Revenue by age group, gender split, return reason breakdown.  
-![Customer Insights](assets/Customer Insights.png)
+![Customer Insights](assets/Customer_Insights.png)
+
 
 
 ## 🧹 Methodology
